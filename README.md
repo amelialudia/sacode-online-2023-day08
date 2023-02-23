@@ -9,6 +9,6 @@ https://amelialudia.github.io/sacode-online-2023-day08/
 ## Screenshoot Hasil Belajar
 
 Berikut ini merupakan hasil belajar banner
-<img src ="./screenshoot/12.png>
+<img src="./assets/images/screenshoot/12.png>
 
 
